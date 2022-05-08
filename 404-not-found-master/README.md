@@ -35,8 +35,7 @@
 <!-- OVERVIEW -->
 
 ## Overview
-
-<img src="laptop.png" />
+https://github.com/immadsidd/immadsidd.Error-404/blob/main/404-not-found-master/laptop.PNG
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
