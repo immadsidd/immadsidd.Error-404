@@ -68,5 +68,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [preview](https://immadsidd.github.io/immadsidd.Error-404/404-not-found-master/index.html)
-- GitHub [https://github.com/immadsidd)
+- GitHub [GITHUB ACCOUNT](https://github.com/immadsidd)
 
